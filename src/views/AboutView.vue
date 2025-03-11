@@ -142,7 +142,13 @@ export default {
               terlalu banyak, dan sekali lagi
               buat bang bagas makasih scnya
               mungkin gua bakalan
-              belajar bahasa vue vetur 
+              belajar bahasa vue 
+              dan yang terakhir buat bang bagas 
+              sory ya kalo portofolio gua terlalu
+              sama dengan punya bang bagas karna 
+              gua masih mencoba mempelajari 
+              kodinganya, dan yap itu saja dari 
+              saya termikasih 
           </p>
         </div>
 
