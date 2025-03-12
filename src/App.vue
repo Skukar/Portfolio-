@@ -6,7 +6,7 @@
     <nav class="max-w-7xl px-5 md:fixed top-0 z-[98] w-screen backdrop-blur-md bg-[#121212] bg-opacity-80">
       <div class="container mx-auto flex flex-wrap items-center justify-between">
         <button @click="redirectToHome" class="flex">
-          <span class="self-center text-lg text-[#ffdb70] font-semibold whitespace-nowrap fadein-bot hover:text-amber-100">bagasRakha();</span>
+          <span class="self-center text-lg text-[#ffdb70] font-semibold whitespace-nowrap fadein-bot hover:text-amber-100">Zandika</span>
         </button>
         <div class="flex md:order-2 fadein-bot">
           <a href="https://github.com/rakha-elctrnx"><img class="w-9 rounded-full" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" alt="github"></a>
@@ -24,7 +24,7 @@
             </li>
             <li>
               <router-link to="/portfolio"
-                class="fadein-bot fadein-2 text-gray-700 hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-gray-500 md:p-0">Portfolio</router-link>
+                class="fadein-bot fadein-2 text-gray-700 hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-gray-500 md:p-0">Project</router-link>
             </li>
             <li>
               <router-link to="/blog"
@@ -43,7 +43,7 @@
   <nav class="flex justify-around py-4 text-xs">
     <router-link to="/" class="text-gray-300 hover:text-white">Home</router-link>
     <router-link to="/about" class="text-gray-300 hover:text-white">About</router-link>
-    <router-link to="/portfolio" class="text-gray-300 hover:text-white">Portfolio</router-link>
+    <router-link to="/portfolio" class="text-gray-300 hover:text-white">Project</router-link>
     <router-link to="/blog" class="text-gray-300 hover:text-white">Blog</router-link>
   </nav>
 </footer>
