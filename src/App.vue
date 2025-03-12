@@ -45,6 +45,19 @@
     <router-link to="/about" class="text-gray-300 hover:text-white">About</router-link>
     <router-link to="/portfolio" class="text-gray-300 hover:text-white">Project</router-link>
     <router-link to="/blog" class="text-gray-300 hover:text-white">Blog</router-link>
+      <!-- footer -->
+      <footer>
+        <nav class="socmed-nav">
+          <ul>
+            <li><a href="#" target="_blank"><img src="images and icons/icons/W-facebook.png" class="socmed-icon" alt="fb-icon"></a></li>
+            <li><a href="#" target="_blank"><img src="images and icons/icons/W-tiktok.png" class="socmed-icon" alt="tiktok-icon"></a></li>
+            <li><a href="#" target="_blank"><img src="images and icons/icons/W-youtube.png" class="socmed-icon" alt="yt-icon"></a></li>
+            <li><a href="#" target="_blank"><img src="images and icons/icons/W-instagram.png" class="socmed-icon" alt="insta-icon"></a></li>
+          </ul>
+        </nav>
+        <p class="email"><span>email me at</span><br>puyongjohnharvey<wbr>@gmail.com</p>
+      </footer>
+    </div>
   </nav>
 </footer>
 </template>
