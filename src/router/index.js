@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
+import Contact from './views/Contact'
 
 const routes = [
   {
@@ -40,7 +41,7 @@ const router = createRouter({
 })
 
 router.beforeEach((to, from, next) => {
-  document.title = to.meta.title + ' - bagasRakha();'; // Mengambil judul dari meta atau mengatur judul default jika tidak ada
+  document.title = to.meta.title + ' - Adit Zandika'; // Mengambil judul dari meta atau mengatur judul default jika tidak ada
   next();
 });
 
